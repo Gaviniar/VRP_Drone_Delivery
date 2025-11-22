@@ -149,5 +149,5 @@ class ExperimentConfig:
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+No License.
 ---
